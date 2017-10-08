@@ -1,0 +1,20 @@
+{
+    "name": "iluhansk/jquery-webserver-bg",
+    "description": "jquery plugin for operate with long-time webserver background processes",
+    "type": "yii2-extension",
+    "keywords": [
+        "jquery",
+        "plugin",
+        "background",
+        "server",
+        "process",
+        "ajax"
+    ],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Ilya Perfilyev",
+            "email": "ilya_perfi@mail.ru"
+        }
+    ],
+}
